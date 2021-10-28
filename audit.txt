@@ -1,9 +1,0 @@
-
-2021-10-27T07:38:38.376032300 : Item B2 Lion Chosen. Item cost: 0.78. Remaining Quantity: 18
-2021-10-27T07:39:15.217388500 : Item B3 Malteasers Chosen. Item cost: 0.9. Remaining Quantity: 19
-2021-10-27T07:43:59.912821500 : Item B1 Aero Chosen. Item cost: 0.54. Remaining Quantity: -1
-2021-10-27T08:47:30.483361 : Item B3 Malteasers Chosen. Item cost: 0.9. Remaining Quantity: 18
-2021-10-27T12:32:47.635889800 : Item B2 Lion Chosen. Item cost: 0.78. Remaining Quantity: 17
-2021-10-27T12:34:12.963817100 : Item B2 Lion Chosen. Item cost: 0.78. Remaining Quantity: 16
-2021-10-27T12:38:58.033057600 : Item A2 Twix Chosen. Item cost: 0.85. Remaining Quantity: 18
-2021-10-27T12:39:14.434390600 : Item A3 Galaxy Chosen. Item cost: 0.7. Remaining Quantity: 18
